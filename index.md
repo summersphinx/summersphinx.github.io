@@ -10,5 +10,5 @@ This is the documentation for Xplus' games that require it. Currently that is ju
 > 
 >   [Get the Game](https://summersphinx.itch.io/coderandom3)
 >   
->   [Docs]()
+>   [Docs](coderandom3.md)
 >   
