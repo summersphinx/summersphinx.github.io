@@ -1,5 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
-title: Summersphinx's Homepage
+title: XPlus Games
 description: Bookmark this to keep an eye on my project updates!
 plugins:
 - jekyll-remote-theme
