@@ -13,7 +13,7 @@ A feature of the game is allowing you to write a simple script to decode a strin
 
 ### Caesar Cipher
 
-: One of the two basic ciphers used within the game. The Caesar cipher, also known as the shift cipher, shifts the alphebet *n* characters.
+: One of three basic ciphers used within the game. The Caesar cipher, also known as the shift cipher, shifts the alphebet *n* characters.
 
 ```
 shift 7
