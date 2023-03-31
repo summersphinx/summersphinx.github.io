@@ -19,7 +19,26 @@ Example:
 
 ```
 shift 7
+
+
+# The Caesar cipher with a key of 7
+#
+# A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+# I J K L M N O P Q R S T U V Q X Y Z A B C D E F G H
 ```
 
-A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
-I J K L M N O P Q R S T U V Q X Y Z A B C D E F G H
+### Atbash Cipher
+
+: The second of three basic ciphers used within the game. The Atbash cipher, also known as the flip cipher, is a substitution cipher with a fixed key that reverses the alphabet.
+
+Example:
+
+```
+flip
+
+
+# The Atbash cipher
+#
+# A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+# Z Y X W V U T S R Q P O N M L K J I H G F E D C B A
+```
