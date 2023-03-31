@@ -11,7 +11,7 @@ The aim of the game is to decrypt messages to help fight the enemy(or something)
 
 A feature of the game is allowing you to write a simple script to decode a string of characters automaticly, as long as you write the script correctly. The guide below shows how to write the script to decipher each different encryption method used within the game.
 
-List of Ciphers
+### List of Ciphers
 
 - [X] `Caesar Cipher`
 - [X] `Atbash Cipher`
