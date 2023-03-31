@@ -15,6 +15,11 @@ A feature of the game is allowing you to write a simple script to decode a strin
 
 : One of three basic ciphers used within the game. The Caesar cipher, also known as the shift cipher, shifts the alphebet *n* characters.
 
+Example:
+
 ```
 shift 7
 ```
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+I J K L M N O P Q R S T U V Q X Y Z A B C D E F G H
