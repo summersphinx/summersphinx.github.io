@@ -13,15 +13,15 @@ A feature of the game is allowing you to write a simple script to decode a strin
 
 List of Ciphers
 
-- [X] [`Caesar Cipher`](coderandom3.md#caesar)
-- [X] [`Atbash Cipher`](coderandom3.md#atbash)
-- [X] [`Base 6 Cipher`](coderandom3.md#base6)
-- [ ] [`Autokey Cipher`](coderandom3.md#autokey)
-- [ ] [`Affine Cipher`](coderandom3.md#affine)
-- [ ] [`Baconian Cipher`](coderandom3.md#baconian)
-- [ ] And Many More!
+- [X] `Caesar Cipher`
+- [X] `Atbash Cipher`
+- [X] `Base 6 Cipher`
+- [ ] `Autokey Cipher`
+- [ ] `Affine Cipher`
+- [ ] `Baconian Cipher`
+- [ ]  And Many More!
 
-### Caesar Cipher [#caesar]
+### Caesar Cipher
 
 : One of three basic ciphers used within the game. The Caesar cipher, also known as the shift cipher, shifts the alphebet *n* characters.
 
